@@ -1,0 +1,10 @@
+Kevin Zhang
+kzhang12@jhu.edu
+
+Assignment 1 Part 2
+
+Included Files:
+GameplayGridComponent.java- Custom grid component used by the frame
+MyShuffletterFrame.java- Frame used by the GUI
+MyShuffletterGUI.java- Main method to run the program
+Bananagrams_logo.jpg- set image as icon image
